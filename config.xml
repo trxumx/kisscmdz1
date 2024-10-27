@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <filesystem>
+        <file name="example.txt" permissions="rw">Hello, World!</file>
+        <directory name="some_directory"/>
+    </filesystem>
+</config>
